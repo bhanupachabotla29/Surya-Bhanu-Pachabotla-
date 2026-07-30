@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Element Selectors Example</title>
+</head>
+<body>
+    <h1 id="title">Welcome</h1>
+
+    <p class="text">Paragraph 1</p>
+    <p class="text">Paragraph 2</p>
+
+    <div>First Div</div>
+    <div>Second Div</div>
+
+    <button onclick="selectElements()">Select Elements</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
